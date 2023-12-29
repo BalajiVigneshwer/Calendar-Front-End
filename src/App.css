@@ -1,0 +1,15 @@
+.calendar-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+} 
+.B1{ 
+  background-color:cadetblue;
+}
+.B2{
+  background-color:rgb(115, 207, 203);
+}
+.B3{
+  background-color: rgb(120,209,256);
+}
